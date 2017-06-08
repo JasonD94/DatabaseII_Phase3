@@ -20,9 +20,13 @@ To find our Java code, as well as our XML files, you need to go to
 the following directories:
 
 DB2P3\DB2P3\app\src\main\java\downing\pearce\db2p3 -> Java Code here
+
 DB2P3\DB2P3\app\src\main\res\layout -> Layout XML files here
+
 DB2P3\DB2P3\app\src\main\res\values -> String values here
+
 DB2P3\DB2P3\app\src\main -> Android Manifest here
+
 DB2P3\DB2P3\app -> Build.gradle here
 
 ***********************
@@ -33,3 +37,26 @@ the localhost web server, and then displays the results in Android.
 
 We have also included screenshots of all 6 queries running successfully on our
 local machine.
+
+***********************
+# Screenshots
+***********************
+
+Query 1:
+
+
+Query 2: 
+
+
+Query 3:
+
+
+Query 4: 
+
+
+Query 5: 
+
+
+Query 6:
+
+
