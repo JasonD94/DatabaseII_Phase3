@@ -1,5 +1,5 @@
 ***********************
- DB2P3
+# DB2P3
 ***********************
 DB2 Phase 3
 
@@ -8,7 +8,7 @@ Jason Downing
 Chris Pearce
 
 ***********************
- Instructions
+# Instructions
 ***********************
 To run this project, simply import the DB2P3 directory into a Android Studio
 project and hit "run app". You will need the latest version of Android, API 25
@@ -26,7 +26,7 @@ DB2P3\DB2P3\app\src\main -> Android Manifest here
 DB2P3\DB2P3\app -> Build.gradle here
 
 ***********************
- Notes
+# Notes
 ***********************
 We have implemented Queries 1 to 6 so far. Each query runs our PHP code on
 the localhost web server, and then displays the results in Android.
