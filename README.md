@@ -44,19 +44,25 @@ local machine.
 
 Query 1:
 
+![query1](https://raw.githubusercontent.com/JasonD94/DatabaseII_Phase3/master/Screenshots/query1.png)
 
 Query 2: 
 
+![query2](https://raw.githubusercontent.com/JasonD94/DatabaseII_Phase3/master/Screenshots/query2.png)
 
 Query 3:
 
+![query3](https://raw.githubusercontent.com/JasonD94/DatabaseII_Phase3/master/Screenshots/query3.png)
 
 Query 4: 
 
+![query4](https://raw.githubusercontent.com/JasonD94/DatabaseII_Phase3/master/Screenshots/query4.png)
 
 Query 5: 
 
+![query5](https://raw.githubusercontent.com/JasonD94/DatabaseII_Phase3/master/Screenshots/query5.png)
 
 Query 6:
 
+![query6](https://raw.githubusercontent.com/JasonD94/DatabaseII_Phase3/master/Screenshots/query6.png)
 
